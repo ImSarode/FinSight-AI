@@ -63,8 +63,8 @@ pip install -r requirements.txt
 Create a file named database_config.py in the root directory.
 Add the following:
 
-# database_config.py
 ```bash
+database_config.py
 # Example database credentials
 DB_HOST = "localhost"
 DB_USER = "your_user"

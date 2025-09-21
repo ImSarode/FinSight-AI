@@ -27,13 +27,14 @@ It helps you **track spending, manage budgets, and scan receipts using Google Ge
 
 ## 📂 Project Structure
 
+```bash
 finsight-ai/
-│── app.py # Main Streamlit app (this file)
-│── database.py # Database connection & queries
-│── database_config.py # Database credentials & Gemini API key
-│── requirements.txt # Python dependencies
-│── README.md # Project documentation
-
+├── app.py              # Main Streamlit app (this file)
+├── database.py         # Database connection & queries
+├── database_config.py  # Database credentials & Gemini API key
+├── requirements.txt    # Python dependencies
+└── README.md           # Project documentation
+```
 
 ---
 

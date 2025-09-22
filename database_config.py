@@ -11,5 +11,6 @@ DATABASE_CONFIG = {
 }
 
 # Gemini API key (optional - for receipt scanning)
-GEMINI_API_KEY = 'AIzaSyB7j0_LrPWuh9fEzlZrVP_kJrQLeSm9GNc'
+GEMINI_API_KEY = 'PUT YOUR GEMINI KEY HERE'
+
 # Replace with your actual API key if you have one
